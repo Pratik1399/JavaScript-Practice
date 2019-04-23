@@ -216,7 +216,7 @@
 // console.log(x);
 
 /*5)Coding Challenge*/
-//Ouestion
+//Question
 //1)Mark and John are trying to compare their BMI(Body Mass Index),which is calculated using formula:
 //(mass in kg and height in meter)
 //a)Store Mark's and John's mass and height in variables.
